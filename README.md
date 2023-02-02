@@ -8,4 +8,4 @@ The dataset consists of 50.000 movie reviews, and includes 2 groups: positive an
 
 https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
 
-Notebook: https://github.com/KhuyenLE-maths/NLP-projects/blob/main/Text-classification/combination-of-cnn-lstm-for-text-classification.ipynb
+Notebook: https://github.com/KhuyenLE-maths/NLP-projects/blob/main/Text-classification/Conv1D_LSTM_for_text_classification.ipynb
